@@ -12,7 +12,5 @@ Docker 镜像：doudoubing/cundang:latest，doudoubing/cundang:core版本号
 
 客户端： android Actinium、windows v2ray 可用同一个服务端。
 
-
-
 youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
